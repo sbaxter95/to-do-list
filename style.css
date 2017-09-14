@@ -14,3 +14,13 @@ h1 {
 form {
 	text-align: center;
 }
+
+.done {
+	position: absolute;
+	right: 62px;
+}
+
+.delete {
+	position: absolute;
+	right: 10px;
+}
